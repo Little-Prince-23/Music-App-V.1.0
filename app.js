@@ -175,3 +175,7 @@ const isPlayingNow = () => {
 audio.addEventListener("ended", () => {
   nextMusic();
 });
+
+
+//Light & Dark mode
+
